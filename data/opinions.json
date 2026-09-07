@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "小米澎程SUV售价公布",
-    "category": "科技",
+    "title": "9月起你的工资有变",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 18568721,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 20448453,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -13,15 +13,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "小米澎程",
-      "SUV售",
-      "小米澎程SU"
+      "9月起你",
+      "的工资有",
+      "9月起你的工"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -41,34 +41,34 @@
   },
   {
     "id": 2,
-    "title": "刘德华幽默带货：三折叠不好用找余总",
+    "title": "雷军展示“折叠机的坟场”",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 16801673,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 18502526,
     "trend": "rising",
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "刘德华幽",
-      "默带货：",
-      "刘德华幽默带"
+      "雷军展示",
+      "“折叠机",
+      "雷军展示“折"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "sentimentScore": 0.65,
       "riskAssessment": "medium",
       "trendPrediction": "待观察",
@@ -84,8 +84,8 @@
     "title": "让青春在科技强国征途中闪闪发光",
     "category": "科技",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 15202782,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 16741777,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -101,7 +101,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -121,34 +121,34 @@
   },
   {
     "id": 4,
-    "title": "雷军展示“折叠机的坟场”",
+    "title": "刘德华幽默带货：三折叠不好用找余总",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 13756046,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 15148587,
     "trend": "rising",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "雷军展示",
-      "“折叠机",
-      "雷军展示“折"
+      "刘德华幽",
+      "默带货：",
+      "刘德华幽默带"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "sentimentScore": 0.65,
       "riskAssessment": "medium",
       "trendPrediction": "待观察",
@@ -164,8 +164,8 @@
     "title": "英国政府要求民众提前存粮存水",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 12446985,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 13707008,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -181,7 +181,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -201,29 +201,29 @@
   },
   {
     "id": 6,
-    "title": "华为再发布高性能芯片",
-    "category": "科技",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 12106110,
+    "title": "赵一鸣零食店被查印证了什么",
+    "category": "社会",
+    "source": "今日头条",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 12402614,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "华为再发布高性能芯片...",
+    "excerpt": "",
     "keywords": [
-      "华为再发",
-      "布高性能",
-      "华为再发布高"
+      "赵一鸣零",
+      "食店被查",
+      "赵一鸣零食店"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639302",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
@@ -241,27 +241,27 @@
   },
   {
     "id": 7,
-    "title": "郑钦文vs斯瓦泰克",
+    "title": "郑钦文2:0战胜斯瓦泰克",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 12094218,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 11854375,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "郑钦文vs斯瓦泰克...",
+    "excerpt": "郑钦文2:0战胜斯瓦泰克...",
     "keywords": [
-      "郑钦文v",
-      "s斯瓦泰",
-      "郑钦文vs斯"
+      "郑钦文2",
+      ":0战胜",
+      "郑钦文2:0"
     ],
     "platform": "douyin",
     "url": "https://www.douyin.com/hot/2639833",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -281,27 +281,27 @@
   },
   {
     "id": 8,
-    "title": "信息通信行业发展十五五规划发布",
+    "title": "中国女篮全力冲击小组第二",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 11617255,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 11519181,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "信息通信行业发展十五五规划发布...",
+    "excerpt": "中国女篮全力冲击小组第二...",
     "keywords": [
-      "信息通信",
-      "行业发展",
-      "信息通信行业"
+      "中国女篮",
+      "全力冲击",
+      "中国女篮全力"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639457",
+    "url": "https://www.douyin.com/hot/2639628",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -321,27 +321,27 @@
   },
   {
     "id": 9,
-    "title": "真正想上大学的是高三的自己",
+    "title": "信息通信行业发展十五五规划发布",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 11327390,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 11371647,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "真正想上大学的是高三的自己...",
+    "excerpt": "信息通信行业发展十五五规划发布...",
     "keywords": [
-      "真正想上",
-      "大学的是",
-      "真正想上大学"
+      "信息通信",
+      "行业发展",
+      "信息通信行业"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2638092",
+    "url": "https://www.douyin.com/hot/2639457",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -361,67 +361,27 @@
   },
   {
     "id": 10,
-    "title": "北京明日最高气温将达下半年以来新低",
-    "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 11262498,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "",
-    "keywords": [
-      "北京明日",
-      "最高气温",
-      "北京明日最高"
-    ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
-    "timeline": [
-      {
-        "time": "15:28",
-        "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "title": "这个秋天你跑步了吗",
+    "title": "真正想上大学的是高三的自己",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 10742999,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 11243518,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "这个秋天你跑步了吗...",
+    "excerpt": "真正想上大学的是高三的自己...",
     "keywords": [
-      "这个秋天",
-      "你跑步了",
-      "这个秋天你跑"
+      "真正想上",
+      "大学的是",
+      "真正想上大学"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2637574",
+    "url": "https://www.douyin.com/hot/2638092",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -440,28 +400,68 @@
     }
   },
   {
-    "id": 12,
-    "title": "中国央行连续22个月增持黄金",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 10706133,
+    "id": 11,
+    "title": "华为新款折叠屏手机售价19999元起",
+    "category": "科技",
+    "source": "今日头条",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 11222349,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "中国央行连续22个月增持黄金...",
+    "excerpt": "",
     "keywords": [
-      "中国央行",
-      "连续22",
-      "中国央行连续"
+      "华为新款",
+      "折叠屏手",
+      "华为新款折叠"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639410",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
+        "title": "事件发现",
+        "desc": "今日头条 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "这个秋天你跑步了吗",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 10540806,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "这个秋天你跑步了吗...",
+    "keywords": [
+      "这个秋天",
+      "你跑步了",
+      "这个秋天你跑"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2637574",
+    "timeline": [
+      {
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -481,67 +481,27 @@
   },
   {
     "id": 13,
-    "title": "小米18 Fold售价10999元起",
-    "category": "科技",
-    "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 10190730,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "",
-    "keywords": [
-      "小米18",
-      " Fol",
-      "小米18 F"
-    ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
-    "timeline": [
-      {
-        "time": "15:28",
-        "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 14,
-    "title": "中国女篮全力冲击小组第二",
+    "title": "中国央行连续22个月增持黄金",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 9456420,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 10258332,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "中国女篮全力冲击小组第二...",
+    "excerpt": "中国央行连续22个月增持黄金...",
     "keywords": [
-      "中国女篮",
-      "全力冲击",
-      "中国女篮全力"
+      "中国央行",
+      "连续22",
+      "中国央行连续"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639628",
+    "url": "https://www.douyin.com/hot/2639410",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -560,12 +520,12 @@
     }
   },
   {
-    "id": 15,
-    "title": "郑钦文美网大逆转已锁定322万奖金",
+    "id": 14,
+    "title": "刚退休就意外离世交的社保怎么办",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 9220953,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 10154401,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -573,15 +533,55 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "郑钦文美",
-      "网大逆转",
-      "郑钦文美网大"
+      "刚退休就",
+      "意外离世",
+      "刚退休就意外"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
+        "title": "事件发现",
+        "desc": "今日头条 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "title": "连“一杆秤”都管不住算什么大品牌",
+    "category": "社会",
+    "source": "今日头条",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 9188082,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "",
+    "keywords": [
+      "连“一杆",
+      "秤”都管",
+      "连“一杆秤”"
+    ],
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
+    "timeline": [
+      {
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -601,29 +601,29 @@
   },
   {
     "id": 16,
-    "title": "一定要试试潮汕鱼饭",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 9091416,
+    "title": "余承东建议苹果用户买华为当备用机",
+    "category": "科技",
+    "source": "今日头条",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 8313720,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "一定要试试潮汕鱼饭...",
+    "excerpt": "",
     "keywords": [
-      "一定要试",
-      "试潮汕鱼",
-      "一定要试试潮"
+      "余承东建",
+      "议苹果用",
+      "余承东建议苹"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2638727",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
@@ -641,27 +641,27 @@
   },
   {
     "id": 17,
-    "title": "华为新品发布会 ​",
-    "category": "科技",
+    "title": "一定要试试潮汕鱼饭",
+    "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 8912316,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 8306516,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "华为新品发布会 ​...",
+    "excerpt": "一定要试试潮汕鱼饭...",
     "keywords": [
-      "华为新品",
-      "发布会 ",
-      "华为新品发布"
+      "一定要试",
+      "试潮汕鱼",
+      "一定要试试潮"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639207",
+    "url": "https://www.douyin.com/hot/2638727",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -681,14 +681,54 @@
   },
   {
     "id": 18,
+    "title": "华为新品发布会 ​",
+    "category": "科技",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7810838,
+    "trend": "stable",
+    "sentiment": "neutral",
+    "riskLevel": "low",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "华为新品发布会 ​...",
+    "keywords": [
+      "华为新品",
+      "发布会 ",
+      "华为新品发布"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2639207",
+    "timeline": [
+      {
+        "time": "19:33",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "low",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 19,
     "title": "秋天的第一件燕麦系卫衣",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 8659811,
-    "trend": "rising",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7800020,
+    "trend": "stable",
     "sentiment": "neutral",
-    "riskLevel": "medium",
+    "riskLevel": "low",
     "isHot": true,
     "isNew": true,
     "excerpt": "秋天的第一件燕麦系卫衣...",
@@ -701,7 +741,7 @@
     "url": "https://www.douyin.com/hot/2638871",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -710,47 +750,7 @@
     "analysis": {
       "sentiment": "neutral",
       "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 19,
-    "title": "赵一鸣零食店被查印证了什么",
-    "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 8343464,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "",
-    "keywords": [
-      "赵一鸣零",
-      "食店被查",
-      "赵一鸣零食店"
-    ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
-    "timeline": [
-      {
-        "time": "15:28",
-        "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
+      "riskAssessment": "low",
       "trendPrediction": "待观察",
       "keyPoints": [
         "事件正在发展中",
@@ -764,8 +764,8 @@
     "title": "官方回应驳船往长江倾倒黑色固体",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7803459,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7769945,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -781,7 +781,7 @@
     "url": "https://www.douyin.com/hot/2638814",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -804,8 +804,8 @@
     "title": "中国女篮末轮将战意大利",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7791250,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7767934,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -821,7 +821,7 @@
     "url": "https://www.douyin.com/hot/2638660",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -841,27 +841,26 @@
   },
   {
     "id": 22,
-    "title": "小米澎程N90探索版看点总结",
+    "title": "小米新品发布会",
     "category": "科技",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7777794,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7737819,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "小米澎程N90探索版看点总结...",
+    "excerpt": "小米新品发布会...",
     "keywords": [
-      "小米澎程",
-      "N90探",
-      "小米澎程N9"
+      "小米新品",
+      "小米新品发布"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639891",
+    "url": "https://www.douyin.com/hot/2639669",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -881,26 +880,27 @@
   },
   {
     "id": 23,
-    "title": "小米新品发布会",
-    "category": "科技",
+    "title": "你来找我吧我不想一个人了",
+    "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7747055,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7719566,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "小米新品发布会...",
+    "excerpt": "你来找我吧我不想一个人了...",
     "keywords": [
-      "小米新品",
-      "小米新品发布"
+      "你来找我",
+      "吧我不想",
+      "你来找我吧我"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639669",
+    "url": "https://www.douyin.com/hot/2639034",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -920,27 +920,27 @@
   },
   {
     "id": 24,
-    "title": "丁俊晖英格兰公开赛拿下开门红",
-    "category": "社会",
+    "title": "小米澎程N90探索版看点总结",
+    "category": "科技",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7744790,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7710718,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "丁俊晖英格兰公开赛拿下开门红...",
+    "excerpt": "小米澎程N90探索版看点总结...",
     "keywords": [
-      "丁俊晖英",
-      "格兰公开",
-      "丁俊晖英格兰"
+      "小米澎程",
+      "N90探",
+      "小米澎程N9"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639646",
+    "url": "https://www.douyin.com/hot/2639891",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -960,27 +960,27 @@
   },
   {
     "id": 25,
-    "title": "你来找我吧我不想一个人了",
+    "title": "交锋见招拆招全程高能",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7743148,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7709166,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "你来找我吧我不想一个人了...",
+    "excerpt": "交锋见招拆招全程高能...",
     "keywords": [
-      "你来找我",
-      "吧我不想",
-      "你来找我吧我"
+      "交锋见招",
+      "拆招全程",
+      "交锋见招拆招"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639034",
+    "url": "https://www.douyin.com/hot/2639147",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1000,27 +1000,27 @@
   },
   {
     "id": 26,
-    "title": "田曦薇请保持这个更新速度",
-    "category": "社会",
+    "title": "华为再发布高性能芯片",
+    "category": "科技",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7727117,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7700080,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "田曦薇请保持这个更新速度...",
+    "excerpt": "华为再发布高性能芯片...",
     "keywords": [
-      "田曦薇请",
-      "保持这个",
-      "田曦薇请保持"
+      "华为再发",
+      "布高性能",
+      "华为再发布高"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639807",
+    "url": "https://www.douyin.com/hot/2639302",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1040,27 +1040,27 @@
   },
   {
     "id": 27,
-    "title": "等来了侯明昊的光绘镜头签",
+    "title": "被清明上河园的幕后诚意圈粉了",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7703000,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7681423,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "等来了侯明昊的光绘镜头签...",
+    "excerpt": "被清明上河园的幕后诚意圈粉了...",
     "keywords": [
-      "等来了侯",
-      "明昊的光",
-      "等来了侯明昊"
+      "被清明上",
+      "河园的幕",
+      "被清明上河园"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639813",
+    "url": "https://www.douyin.com/hot/2639216",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1080,27 +1080,27 @@
   },
   {
     "id": 28,
-    "title": "檀健次穿燕麦系动次打次",
+    "title": "王子不会拍为4岁白血病女孩圆梦",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7692391,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7677897,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "檀健次穿燕麦系动次打次...",
+    "excerpt": "王子不会拍为4岁白血病女孩圆梦...",
     "keywords": [
-      "檀健次穿",
-      "燕麦系动",
-      "檀健次穿燕麦"
+      "王子不会",
+      "拍为4岁",
+      "王子不会拍为"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639821",
+    "url": "https://www.douyin.com/hot/2639684",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1120,27 +1120,27 @@
   },
   {
     "id": 29,
-    "title": "王子不会拍为4岁白血病女孩圆梦",
+    "title": "一组绣球花拍出复古油画感",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7689687,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7653489,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "王子不会拍为4岁白血病女孩圆梦...",
+    "excerpt": "一组绣球花拍出复古油画感...",
     "keywords": [
-      "王子不会",
-      "拍为4岁",
-      "王子不会拍为"
+      "一组绣球",
+      "花拍出复",
+      "一组绣球花拍"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2639684",
+    "url": "https://www.douyin.com/hot/2639227",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1160,29 +1160,29 @@
   },
   {
     "id": 30,
-    "title": "余承东建议苹果用户买华为当备用机",
-    "category": "科技",
-    "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 7549478,
+    "title": "蘑菇射击挑战都谁通关了",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7653405,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "蘑菇射击挑战都谁通关了...",
     "keywords": [
-      "余承东建",
-      "议苹果用",
-      "余承东建议苹"
+      "蘑菇射击",
+      "挑战都谁",
+      "蘑菇射击挑战"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2639538",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -1203,8 +1203,8 @@
     "title": "江西遂川、万安这些涉灾信息不实",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 6831050,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 7522565,
     "trend": "stable",
     "sentiment": "negative",
     "riskLevel": "low",
@@ -1220,7 +1220,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1243,8 +1243,8 @@
     "title": "女子扔刀刚好刺死前夫获刑3年2个月",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 6180990,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 6806698,
     "trend": "stable",
     "sentiment": "positive",
     "riskLevel": "low",
@@ -1260,7 +1260,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1283,8 +1283,8 @@
     "title": "女子称在餐厅被男童摸屁股",
     "category": "美食",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 5592791,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 6158955,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1300,7 +1300,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1320,11 +1320,11 @@
   },
   {
     "id": 34,
-    "title": "华为新款折叠屏手机售价19999元起",
-    "category": "科技",
+    "title": "曝井柏然刘雯结婚",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 5060566,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 5572853,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1332,15 +1332,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "华为新款",
-      "折叠屏手",
-      "华为新款折叠"
+      "曝井柏然",
+      "曝井柏然刘雯"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1360,27 +1359,27 @@
   },
   {
     "id": 35,
-    "title": "连“一杆秤”都管不住算什么大品牌",
-    "category": "社会",
+    "title": "小米18 Fold售价10999元起",
+    "category": "科技",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 4578990,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 5042526,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "连“一杆",
-      "秤”都管",
-      "连“一杆秤”"
+      "小米18",
+      " Fol",
+      "小米18 F"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1400,34 +1399,34 @@
   },
   {
     "id": 36,
-    "title": "厄尔尼诺将对我国有何影响",
+    "title": "南宁铁路通报旅客跳轨身亡",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 4143241,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 4562666,
     "trend": "stable",
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "riskLevel": "low",
     "isHot": false,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "厄尔尼诺",
-      "将对我国",
-      "厄尔尼诺将对"
+      "南宁铁路",
+      "通报旅客",
+      "南宁铁路通报"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "sentimentScore": 0.65,
       "riskAssessment": "low",
       "trendPrediction": "待观察",
@@ -1440,11 +1439,11 @@
   },
   {
     "id": 37,
-    "title": "9月起你的工资有变",
+    "title": "日本驻印大使捏住鼻子在恒河沐浴",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 3748960,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 4128471,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1452,15 +1451,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "9月起你",
-      "的工资有",
-      "9月起你的工"
+      "日本驻印",
+      "大使捏住",
+      "日本驻印大使"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1480,11 +1479,11 @@
   },
   {
     "id": 38,
-    "title": "频繁口臭可能是感染幽门螺旋杆菌",
+    "title": "马斯克：10年内人形机器人至少10亿台",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 3392199,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 3735595,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1492,15 +1491,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "频繁口臭",
-      "可能是感",
-      "频繁口臭可能"
+      "马斯克：",
+      "10年内",
+      "马斯克：10"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1520,11 +1519,11 @@
   },
   {
     "id": 39,
-    "title": "小米澎程系列新车首测",
-    "category": "科技",
+    "title": "梅艳芳大哥称已申请禁令阻止梅妈火化",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 3069388,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 3380106,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1532,15 +1531,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "小米澎程",
-      "系列新车",
-      "小米澎程系列"
+      "梅艳芳大",
+      "哥称已申",
+      "梅艳芳大哥称"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1560,11 +1559,11 @@
   },
   {
     "id": 40,
-    "title": "A股“易中天”集体大涨",
-    "category": "社会",
+    "title": "英阿对抗升级 马岛战争是否会重演",
+    "category": "国际",
     "source": "今日头条",
-    "publishTime": "2026-09-07 15:28:03",
-    "heat": 2777297,
+    "publishTime": "2026-09-07 19:33:12",
+    "heat": 3058446,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1572,15 +1571,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "A股“易",
-      "中天”集",
-      "A股“易中天"
+      "英阿对抗",
+      "升级 马",
+      "英阿对抗升级"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1603,7 +1602,7 @@
     "title": "给阿嬷的情书",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 90000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1619,7 +1618,7 @@
     "url": "https://movie.douban.com/subject/37116446/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1642,7 +1641,7 @@
     "title": "杀死比尔：血色全传",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1659,7 +1658,7 @@
     "url": "https://movie.douban.com/subject/10756537/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1682,7 +1681,7 @@
     "title": "奥德赛",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1697,7 +1696,7 @@
     "url": "https://movie.douban.com/subject/36808876/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1720,7 +1719,7 @@
     "title": "欢迎来龙餐馆",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1736,7 +1735,7 @@
     "url": "https://movie.douban.com/subject/35811064/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1759,7 +1758,7 @@
     "title": "空枪",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1774,7 +1773,7 @@
     "url": "https://movie.douban.com/subject/37508847/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1797,7 +1796,7 @@
     "title": "抓特务",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1812,7 +1811,7 @@
     "url": "https://movie.douban.com/subject/36812879/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1832,10 +1831,10 @@
   },
   {
     "id": 47,
-    "title": "特立独行",
+    "title": "燃烧吧！爸爸",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 60000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1844,13 +1843,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "特立独行"
+      "燃烧吧！",
+      "燃烧吧！爸爸"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36953973/",
+    "url": "https://movie.douban.com/subject/36903929/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1870,10 +1870,10 @@
   },
   {
     "id": 48,
-    "title": "燃烧吧！爸爸",
+    "title": "特立独行",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 60000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1882,14 +1882,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "燃烧吧！",
-      "燃烧吧！爸爸"
+      "特立独行"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36903929/",
+    "url": "https://movie.douban.com/subject/36953973/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1912,7 +1911,7 @@
     "title": "坠落2：死点",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 50000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1928,7 +1927,7 @@
     "url": "https://movie.douban.com/subject/36318704/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1951,7 +1950,7 @@
     "title": "可能的爱情",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-07 15:28:03",
+    "publishTime": "2026-09-07 19:33:12",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1967,7 +1966,7 @@
     "url": "https://movie.douban.com/subject/36847425/",
     "timeline": [
       {
-        "time": "15:28",
+        "time": "19:33",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
