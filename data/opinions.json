@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "房贷贴息",
+    "title": "特朗普评中美会晤：满分10分我打12分",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 19547045,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 23385406,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -13,13 +13,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "房贷贴息"
+      "特朗普评",
+      "中美会晤",
+      "特朗普评中美"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -39,11 +41,11 @@
   },
   {
     "id": 2,
-    "title": "宋佳金鹰奖最佳女主",
+    "title": "陈妤颉：3金1银我真牛啊",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 17686897,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 21159990,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -51,15 +53,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "宋佳金鹰",
-      "奖最佳女",
-      "宋佳金鹰奖最"
+      "陈妤颉：",
+      "3金1银",
+      "陈妤颉：3金"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -82,8 +84,8 @@
     "title": "人民英雄 永垂不朽",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 16003767,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 19146351,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -99,7 +101,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -119,11 +121,11 @@
   },
   {
     "id": 4,
-    "title": "房贷贴息后100万房贷月供能省多少",
+    "title": "邓亚萍：国人没法接受我们输日本队",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 14480807,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 17324335,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -131,15 +133,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "房贷贴息",
-      "后100",
-      "房贷贴息后1"
+      "邓亚萍：",
+      "国人没法",
+      "邓亚萍：国人"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -159,11 +161,11 @@
   },
   {
     "id": 5,
-    "title": "于和伟2026白玉兰金鹰双料视帝",
+    "title": "水谷隼：中国男乒实力整体下滑",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 13102776,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 15675706,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -171,15 +173,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "于和伟2",
-      "026白",
-      "于和伟202"
+      "水谷隼：",
+      "中国男乒",
+      "水谷隼：中国"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -199,11 +201,11 @@
   },
   {
     "id": 6,
-    "title": "陈妤颉最后一棒上演惊天逆转",
+    "title": "房贷贴息",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 11855882,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 14183966,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -211,15 +213,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "陈妤颉最",
-      "后一棒上",
-      "陈妤颉最后一"
+      "房贷贴息"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -239,29 +239,29 @@
   },
   {
     "id": 7,
-    "title": "请三休十三的人现在都到哪里了",
+    "title": "朱亚文获金鹰最佳男配宋佳哭了",
     "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 11807492,
+    "source": "今日头条",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 12834183,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "请三休十三的人现在都到哪里了...",
+    "excerpt": "",
     "keywords": [
-      "请三休十",
-      "三的人现",
-      "请三休十三的"
+      "朱亚文获",
+      "金鹰最佳",
+      "朱亚文获金鹰"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2671349",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
@@ -279,27 +279,27 @@
   },
   {
     "id": 8,
-    "title": "陈芋汐卢为包揽10米台冠亚军",
+    "title": "还没出发就已经出片了",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 11416775,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 12081138,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "陈芋汐卢为包揽10米台冠亚军...",
+    "excerpt": "还没出发就已经出片了...",
     "keywords": [
-      "陈芋汐卢",
-      "为包揽1",
-      "陈芋汐卢为包"
+      "还没出发",
+      "就已经出",
+      "还没出发就已"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673179",
+    "url": "https://www.douyin.com/hot/2673448",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -319,27 +319,27 @@
   },
   {
     "id": 9,
-    "title": "世纪工程如何给鱼儿开绿色通道",
+    "title": "陈妤颉回应三金一银",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 11103065,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 11805894,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "世纪工程如何给鱼儿开绿色通道...",
+    "excerpt": "陈妤颉回应三金一银...",
     "keywords": [
-      "世纪工程",
-      "如何给鱼",
-      "世纪工程如何"
+      "陈妤颉回",
+      "应三金一",
+      "陈妤颉回应三"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673803",
+    "url": "https://www.douyin.com/hot/2674004",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -359,27 +359,27 @@
   },
   {
     "id": 10,
-    "title": "还没出发就已经出片了",
+    "title": "世纪工程如何给鱼儿开绿色通道",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 11101639,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 11681847,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "还没出发就已经出片了...",
+    "excerpt": "世纪工程如何给鱼儿开绿色通道...",
     "keywords": [
-      "还没出发",
-      "就已经出",
-      "还没出发就已"
+      "世纪工程",
+      "如何给鱼",
+      "世纪工程如何"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673448",
+    "url": "https://www.douyin.com/hot/2673803",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -399,11 +399,11 @@
   },
   {
     "id": 11,
-    "title": "朱亚文获金鹰最佳男配宋佳哭了",
+    "title": "伊朗队主教练问王楚钦怎么看伊朗队",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 10727645,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 11612849,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -411,15 +411,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "朱亚文获",
-      "金鹰最佳",
-      "朱亚文获金鹰"
+      "伊朗队主",
+      "教练问王",
+      "伊朗队主教练"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -439,26 +439,27 @@
   },
   {
     "id": 12,
-    "title": "我的玩心满电了",
+    "title": "住房贴息贷款什么意思",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 10538618,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 11383404,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "我的玩心满电了...",
+    "excerpt": "住房贴息贷款什么意思...",
     "keywords": [
-      "我的玩心",
-      "我的玩心满电"
+      "住房贴息",
+      "贷款什么",
+      "住房贴息贷款"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673794",
+    "url": "https://www.douyin.com/hot/2674013",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -478,27 +479,27 @@
   },
   {
     "id": 13,
-    "title": "最好的祝福献给祖国",
+    "title": "我的国庆旅行第一站",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 10444284,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 10616568,
     "trend": "rising",
     "sentiment": "positive",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "最好的祝福献给祖国...",
+    "excerpt": "我的国庆旅行第一站...",
     "keywords": [
-      "最好的祝",
-      "福献给祖",
-      "最好的祝福献"
+      "我的国庆",
+      "旅行第一",
+      "我的国庆旅行"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673657",
+    "url": "https://www.douyin.com/hot/2672832",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -518,11 +519,51 @@
   },
   {
     "id": 14,
-    "title": "脑梗真的和洗澡有关吗",
+    "title": "最好的祝福献给祖国",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 10552550,
+    "trend": "rising",
+    "sentiment": "positive",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "最好的祝福献给祖国...",
+    "keywords": [
+      "最好的祝",
+      "福献给祖",
+      "最好的祝福献"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2673657",
+    "timeline": [
+      {
+        "time": "00:59",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "positive",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "title": "乡村豪宅越来越多说明什么",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9706775,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 10507740,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -530,15 +571,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "脑梗真的",
-      "和洗澡有",
-      "脑梗真的和洗"
+      "乡村豪宅",
+      "越来越多",
+      "乡村豪宅越来"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -557,75 +598,35 @@
     }
   },
   {
-    "id": 15,
-    "title": "陈妤颉极限反超混接4x100米夺冠",
+    "id": 16,
+    "title": "房贷贴息后100万房贷月供能省多少",
     "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9343000,
+    "source": "今日头条",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9507796,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "陈妤颉极限反超混接4x100米夺冠...",
+    "excerpt": "",
     "keywords": [
-      "陈妤颉极",
-      "限反超混",
-      "陈妤颉极限反"
+      "房贷贴息",
+      "后100",
+      "房贷贴息后1"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673792",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
       "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 16,
-    "title": "我将奔向更好的远方",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9316925,
-    "trend": "rising",
-    "sentiment": "positive",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "我将奔向更好的远方...",
-    "keywords": [
-      "我将奔向",
-      "更好的远",
-      "我将奔向更好"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673055",
-    "timeline": [
-      {
-        "time": "20:24",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "positive",
       "sentimentScore": 0.65,
       "riskAssessment": "medium",
       "trendPrediction": "待观察",
@@ -638,91 +639,11 @@
   },
   {
     "id": 17,
-    "title": "苹果推送iOS27版本更新",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9311756,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "苹果推送iOS27版本更新...",
-    "keywords": [
-      "苹果推送",
-      "iOS2",
-      "苹果推送iO"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2672727",
-    "timeline": [
-      {
-        "time": "20:24",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 18,
-    "title": "安洗莹卫冕亚运会羽毛球女单冠军",
-    "category": "体育",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9297435,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "安洗莹卫冕亚运会羽毛球女单冠军...",
-    "keywords": [
-      "安洗莹卫",
-      "冕亚运会",
-      "安洗莹卫冕亚"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673243",
-    "timeline": [
-      {
-        "time": "20:24",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 19,
     "title": "风中已经有了国庆的味道",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9278429,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9418155,
     "trend": "rising",
     "sentiment": "positive",
     "riskLevel": "medium",
@@ -738,7 +659,7 @@
     "url": "https://www.douyin.com/hot/2673515",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -757,28 +678,108 @@
     }
   },
   {
-    "id": 20,
-    "title": "住房贴息贷款什么意思",
+    "id": 18,
+    "title": "国庆做点幸福的小事吧",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9234655,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9404970,
+    "trend": "rising",
+    "sentiment": "positive",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "国庆做点幸福的小事吧...",
+    "keywords": [
+      "国庆做点",
+      "幸福的小",
+      "国庆做点幸福"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2672882",
+    "timeline": [
+      {
+        "time": "00:59",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "positive",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "title": "李雯雯：金牌陪大满贯先睡了",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9230057,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "住房贴息贷款什么意思...",
+    "excerpt": "李雯雯：金牌陪大满贯先睡了...",
     "keywords": [
-      "住房贴息",
-      "贷款什么",
-      "住房贴息贷款"
+      "李雯雯：",
+      "金牌陪大",
+      "李雯雯：金牌"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2674013",
+    "url": "https://www.douyin.com/hot/2674113",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "title": "请三休十三的人现在都到哪里了",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9214519,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "请三休十三的人现在都到哪里了...",
+    "keywords": [
+      "请三休十",
+      "三的人现",
+      "请三休十三的"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2671349",
+    "timeline": [
+      {
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -798,27 +799,27 @@
   },
   {
     "id": 21,
-    "title": "“电竞将退出亚运会”不实",
-    "category": "游戏",
+    "title": "朱亚文获金鹰奖最佳男配角",
+    "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9206152,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9185566,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "“电竞将退出亚运会”不实...",
+    "excerpt": "朱亚文获金鹰奖最佳男配角...",
     "keywords": [
-      "“电竞将",
-      "退出亚运",
-      "“电竞将退出"
+      "朱亚文获",
+      "金鹰奖最",
+      "朱亚文获金鹰"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2671892",
+    "url": "https://www.douyin.com/hot/2673868",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -838,27 +839,27 @@
   },
   {
     "id": 22,
-    "title": "宋佳获金鹰奖最佳女主角",
+    "title": "陈妤颉极限反超混接4x100米夺冠",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9152327,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9181463,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "宋佳获金鹰奖最佳女主角...",
+    "excerpt": "陈妤颉极限反超混接4x100米夺冠...",
     "keywords": [
-      "宋佳获金",
-      "鹰奖最佳",
-      "宋佳获金鹰奖"
+      "陈妤颉极",
+      "限反超混",
+      "陈妤颉极限反"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673945",
+    "url": "https://www.douyin.com/hot/2673792",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -878,27 +879,27 @@
   },
   {
     "id": 23,
-    "title": "于和伟获金鹰奖最佳男主角",
-    "category": "社会",
+    "title": "“电竞将退出亚运会”不实",
+    "category": "游戏",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9150381,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9146901,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "于和伟获金鹰奖最佳男主角...",
+    "excerpt": "“电竞将退出亚运会”不实...",
     "keywords": [
-      "于和伟获",
-      "金鹰奖最",
-      "于和伟获金鹰"
+      "“电竞将",
+      "退出亚运",
+      "“电竞将退出"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673969",
+    "url": "https://www.douyin.com/hot/2671892",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -918,34 +919,34 @@
   },
   {
     "id": 24,
-    "title": "国庆和朋友见面必拍ATEEZ舞",
+    "title": "宋佳获金鹰奖最佳女主角",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9125686,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9143473,
     "trend": "rising",
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "国庆和朋友见面必拍ATEEZ舞...",
+    "excerpt": "宋佳获金鹰奖最佳女主角...",
     "keywords": [
-      "国庆和朋",
-      "友见面必",
-      "国庆和朋友见"
+      "宋佳获金",
+      "鹰奖最佳",
+      "宋佳获金鹰奖"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673764",
+    "url": "https://www.douyin.com/hot/2673945",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "sentimentScore": 0.65,
       "riskAssessment": "medium",
       "trendPrediction": "待观察",
@@ -958,27 +959,27 @@
   },
   {
     "id": 25,
-    "title": "10月起对居民购房实施贷款贴息",
+    "title": "于和伟获金鹰奖最佳男主角",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 9120683,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 9018629,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "10月起对居民购房实施贷款贴息...",
+    "excerpt": "于和伟获金鹰奖最佳男主角...",
     "keywords": [
-      "10月起",
-      "对居民购",
-      "10月起对居"
+      "于和伟获",
+      "金鹰奖最",
+      "于和伟获金鹰"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673554",
+    "url": "https://www.douyin.com/hot/2673969",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -998,27 +999,26 @@
   },
   {
     "id": 26,
-    "title": "全民进入纯过日子时代",
+    "title": "金鹰奖颁奖典礼",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 8830966,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 8823579,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "全民进入纯过日子时代...",
+    "excerpt": "金鹰奖颁奖典礼...",
     "keywords": [
-      "全民进入",
-      "纯过日子",
-      "全民进入纯过"
+      "金鹰奖颁",
+      "金鹰奖颁奖典"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2672763",
+    "url": "https://www.douyin.com/hot/2673736",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1038,11 +1038,11 @@
   },
   {
     "id": 27,
-    "title": "特朗普评中美会晤：满分10分我打12分",
+    "title": "安徽马鞍山和县发生地震？假的",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 8783053,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 8603010,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -1050,15 +1050,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "特朗普评",
-      "中美会晤",
-      "特朗普评中美"
+      "安徽马鞍",
+      "山和县发",
+      "安徽马鞍山和"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1078,66 +1078,27 @@
   },
   {
     "id": 28,
-    "title": "2026国庆档电影怎么选",
-    "category": "娱乐",
-    "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 8764752,
-    "trend": "rising",
-    "sentiment": "positive",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "2026国庆档电影怎么选...",
-    "keywords": [
-      "2026",
-      "国庆档电",
-      "2026国庆"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2672468",
-    "timeline": [
-      {
-        "time": "20:24",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "positive",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 29,
-    "title": "金鹰奖颁奖典礼",
+    "title": "9月30号最后一节课be like",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 8759748,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 8568194,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "金鹰奖颁奖典礼...",
+    "excerpt": "9月30号最后一节课be like...",
     "keywords": [
-      "金鹰奖颁",
-      "金鹰奖颁奖典"
+      "9月30",
+      "号最后一",
+      "9月30号最"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2673736",
+    "url": "https://www.douyin.com/hot/2673471",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1156,12 +1117,52 @@
     }
   },
   {
+    "id": 29,
+    "title": "我将奔向更好的远方",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 8070135,
+    "trend": "rising",
+    "sentiment": "positive",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "我将奔向更好的远方...",
+    "keywords": [
+      "我将奔向",
+      "更好的远",
+      "我将奔向更好"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2673055",
+    "timeline": [
+      {
+        "time": "00:59",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "positive",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
     "id": 30,
-    "title": "陈芋汐赛后落泪：跳水是生命重要部分",
+    "title": "杨紫未拿奖从容离场状态松弛",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 7947235,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 7784325,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1169,15 +1170,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "陈芋汐赛",
-      "后落泪：",
-      "陈芋汐赛后落"
+      "杨紫未拿",
+      "奖从容离",
+      "杨紫未拿奖从"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1197,29 +1198,29 @@
   },
   {
     "id": 31,
-    "title": "电竞将退出亚运会？不实",
-    "category": "游戏",
-    "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 7190956,
+    "title": "全民进入纯过日子时代",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 7777875,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "全民进入纯过日子时代...",
     "keywords": [
-      "电竞将退",
-      "出亚运会",
-      "电竞将退出亚"
+      "全民进入",
+      "纯过日子",
+      "全民进入纯过"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2672763",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -1237,28 +1238,29 @@
   },
   {
     "id": 32,
-    "title": "杨紫张一山同框",
+    "title": "10月起对居民购房实施贷款贴息",
     "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 6506646,
+    "source": "抖音热榜",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 7776412,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "10月起对居民购房实施贷款贴息...",
     "keywords": [
-      "杨紫张一",
-      "杨紫张一山同"
+      "10月起",
+      "对居民购",
+      "10月起对居"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2673554",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -1276,11 +1278,11 @@
   },
   {
     "id": 33,
-    "title": "俄罗斯扩军到244万意味着什么",
-    "category": "国际",
+    "title": "亚运会男女MVP各奖25000美元",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 5887456,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 7043549,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1288,15 +1290,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "俄罗斯扩",
-      "军到24",
-      "俄罗斯扩军到"
+      "亚运会男",
+      "女MVP",
+      "亚运会男女M"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1319,8 +1321,8 @@
     "title": "谁能享受房贷贴息",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 5327191,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 6373266,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1335,7 +1337,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1355,27 +1357,27 @@
   },
   {
     "id": 35,
-    "title": "“星舰”受控溅落时发生剧烈爆炸",
+    "title": "闫妮又在金鹰奖微醺上了",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 4820242,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 5766770,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "“星舰”",
-      "受控溅落",
-      "“星舰”受控"
+      "闫妮又在",
+      "金鹰奖微",
+      "闫妮又在金鹰"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1395,27 +1397,27 @@
   },
   {
     "id": 36,
-    "title": "为什么越来越多人不愿交物业费了",
+    "title": "中国队29日收获11金",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 4361535,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 5217989,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "为什么越",
-      "来越多人",
-      "为什么越来越"
+      "中国队2",
+      "9日收获",
+      "中国队29日"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1435,11 +1437,11 @@
   },
   {
     "id": 37,
-    "title": "王毅：日本若不汲取历史教训难有未来",
+    "title": "脑梗真的和洗澡有关吗",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 3946480,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 4721432,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1447,15 +1449,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "王毅：日",
-      "本若不汲",
-      "王毅：日本若"
+      "脑梗真的",
+      "和洗澡有",
+      "脑梗真的和洗"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1475,11 +1477,11 @@
   },
   {
     "id": 38,
-    "title": "国家首次对个人商贷贴息",
+    "title": "宋佳金鹰奖最佳女主",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 3570923,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 4272128,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1487,15 +1489,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "国家首次",
-      "对个人商",
-      "国家首次对个"
+      "宋佳金鹰",
+      "奖最佳女",
+      "宋佳金鹰奖最"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1515,11 +1517,11 @@
   },
   {
     "id": 39,
-    "title": "业主拒缴物业费 法院判决来了",
+    "title": "王毅：日本若不汲取历史教训难有未来",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 3231104,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 3865581,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1527,15 +1529,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "业主拒缴",
-      "物业费 ",
-      "业主拒缴物业"
+      "王毅：日",
+      "本若不汲",
+      "王毅：日本若"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1555,11 +1557,11 @@
   },
   {
     "id": 40,
-    "title": "这5个健康红灯要警惕",
+    "title": "陈妤颉最后一棒上演惊天逆转",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 2923624,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 3497722,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1567,15 +1569,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "这5个健",
-      "康红灯要",
-      "这5个健康红"
+      "陈妤颉最",
+      "后一棒上",
+      "陈妤颉最后一"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1595,10 +1597,10 @@
   },
   {
     "id": 41,
-    "title": "欢迎来龙餐馆",
+    "title": "复仇者联盟4：终局之战",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1607,14 +1609,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "欢迎来龙",
-      "欢迎来龙餐馆"
+      "复仇者联",
+      "盟4：终",
+      "复仇者联盟4"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/35811064/",
+    "url": "https://movie.douban.com/subject/26100958/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1634,10 +1637,10 @@
   },
   {
     "id": 42,
-    "title": "复仇者联盟4：终局之战",
+    "title": "欢迎来龙餐馆",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1646,15 +1649,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "复仇者联",
-      "盟4：终",
-      "复仇者联盟4"
+      "欢迎来龙",
+      "欢迎来龙餐馆"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/26100958/",
+    "url": "https://movie.douban.com/subject/35811064/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1677,7 +1679,7 @@
     "title": "奥德赛",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1692,7 +1694,7 @@
     "url": "https://movie.douban.com/subject/36808876/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1712,10 +1714,10 @@
   },
   {
     "id": 44,
-    "title": "空枪",
+    "title": "翻译疑云",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1724,13 +1726,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "空枪"
+      "翻译疑云"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/37508847/",
+    "url": "https://movie.douban.com/subject/30145117/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1750,11 +1752,11 @@
   },
   {
     "id": 45,
-    "title": "敦煌英雄",
+    "title": "空枪",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 60000,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1762,13 +1764,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "敦煌英雄"
+      "空枪"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/35244246/",
+    "url": "https://movie.douban.com/subject/37508847/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1788,10 +1790,10 @@
   },
   {
     "id": 46,
-    "title": "年会不能停！2",
+    "title": "敦煌英雄",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 60000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1800,14 +1802,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "年会不能",
-      "年会不能停！"
+      "敦煌英雄"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36850814/",
+    "url": "https://movie.douban.com/subject/35244246/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1827,11 +1828,11 @@
   },
   {
     "id": 47,
-    "title": "爱情笑话",
+    "title": "老江湖",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 0,
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 50000,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1839,13 +1840,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "爱情笑话"
+      "老江湖"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36725826/",
+    "url": "https://movie.douban.com/subject/35840408/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1865,49 +1866,10 @@
   },
   {
     "id": 48,
-    "title": "生化危机：爆发夜",
-    "category": "社会",
-    "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
-    "heat": 0,
-    "trend": "stable",
-    "sentiment": "neutral",
-    "riskLevel": "high",
-    "isHot": false,
-    "isNew": true,
-    "excerpt": "",
-    "keywords": [
-      "生化危机",
-      "生化危机：爆"
-    ],
-    "platform": "douban",
-    "url": "https://movie.douban.com/subject/37068446/",
-    "timeline": [
-      {
-        "time": "20:24",
-        "title": "事件发现",
-        "desc": "豆瓣电影 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "high",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 49,
     "title": "野兽之心",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1922,7 +1884,45 @@
     "url": "https://movie.douban.com/subject/36828393/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
+        "title": "事件发现",
+        "desc": "豆瓣电影 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "low",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "title": "爱情笑话",
+    "category": "社会",
+    "source": "豆瓣电影",
+    "publishTime": "2026-09-30 00:59:27",
+    "heat": 0,
+    "trend": "stable",
+    "sentiment": "neutral",
+    "riskLevel": "low",
+    "isHot": false,
+    "isNew": true,
+    "excerpt": "",
+    "keywords": [
+      "爱情笑话"
+    ],
+    "platform": "douban",
+    "url": "https://movie.douban.com/subject/36725826/",
+    "timeline": [
+      {
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1942,26 +1942,26 @@
   },
   {
     "id": 50,
-    "title": "什么意思夫妇",
+    "title": "生化危机：爆发夜",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-09-29 20:24:34",
+    "publishTime": "2026-09-30 00:59:27",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
-    "riskLevel": "low",
+    "riskLevel": "high",
     "isHot": false,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "什么意思",
-      "什么意思夫妇"
+      "生化危机",
+      "生化危机：爆"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/37667015/",
+    "url": "https://movie.douban.com/subject/37068446/",
     "timeline": [
       {
-        "time": "20:24",
+        "time": "00:59",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1970,7 +1970,7 @@
     "analysis": {
       "sentiment": "neutral",
       "sentimentScore": 0.65,
-      "riskAssessment": "low",
+      "riskAssessment": "high",
       "trendPrediction": "待观察",
       "keyPoints": [
         "事件正在发展中",
