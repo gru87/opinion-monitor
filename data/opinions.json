@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "纸尿裤甲酰胺问题调查结果公布",
+    "title": "三部门联合调查尊界刹车踏板断裂",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 13264652,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 19702074,
     "trend": "rising",
     "sentiment": "negative",
     "riskLevel": "high",
@@ -13,15 +13,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "纸尿裤甲",
-      "酰胺问题",
-      "纸尿裤甲酰胺"
+      "三部门联",
+      "合调查尊",
+      "三部门联合调"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -41,29 +41,29 @@
   },
   {
     "id": 2,
-    "title": "中朝新鸭绿江大桥今日开通",
+    "title": "11月1日起社保缴费有新变化",
     "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 12111343,
+    "source": "今日头条",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 17827173,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "中朝新鸭绿江大桥今日开通...",
+    "excerpt": "",
     "keywords": [
-      "中朝新鸭",
-      "绿江大桥",
-      "中朝新鸭绿江"
+      "11月1",
+      "日起社保",
+      "11月1日起"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2694377",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
@@ -81,11 +81,11 @@
   },
   {
     "id": 3,
-    "title": "长实否认李嘉诚去世",
+    "title": "数字见证开放之路",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 12002353,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 16130693,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -93,15 +93,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "长实否认",
-      "李嘉诚去",
-      "长实否认李嘉"
+      "数字见证",
+      "数字见证开放"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -121,91 +120,11 @@
   },
   {
     "id": 4,
-    "title": "抖音商城双11超级补贴来啦",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 11392411,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "抖音商城双11超级补贴来啦...",
-    "keywords": [
-      "抖音商城",
-      "双11超",
-      "抖音商城双1"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696275",
-    "timeline": [
-      {
-        "time": "08:46",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 5,
-    "title": "我国出口动能持续向新向优",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 11126683,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "我国出口动能持续向新向优...",
-    "keywords": [
-      "我国出口",
-      "动能持续",
-      "我国出口动能"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696644",
-    "timeline": [
-      {
-        "time": "08:46",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 6,
-    "title": "中国外贸何以“加速跑”",
+    "title": "评论员：李嘉诚的时代远了",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 10860178,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 14595655,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -213,15 +132,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "中国外贸",
-      "何以“加",
-      "中国外贸何以"
+      "评论员：",
+      "李嘉诚的",
+      "评论员：李嘉"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -240,28 +159,68 @@
     }
   },
   {
-    "id": 7,
-    "title": "官方通报纸尿裤问题核查情况",
+    "id": 5,
+    "title": "黄海南部实弹射击 连续47天禁止驶入",
     "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 10832929,
+    "source": "今日头条",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 13206695,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "官方通报纸尿裤问题核查情况...",
+    "excerpt": "",
     "keywords": [
-      "官方通报",
-      "纸尿裤问",
-      "官方通报纸尿"
+      "黄海南部",
+      "实弹射击",
+      "黄海南部实弹"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696766",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
+        "title": "事件发现",
+        "desc": "今日头条 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "抖音商城双11超级补贴来啦",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 12427622,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "抖音商城双11超级补贴来啦...",
+    "keywords": [
+      "抖音商城",
+      "双11超",
+      "抖音商城双1"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2696275",
+    "timeline": [
+      {
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -280,28 +239,68 @@
     }
   },
   {
-    "id": 8,
-    "title": "国内成品油价格不作调整",
-    "category": "财经",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 9830496,
+    "id": 7,
+    "title": "降温超8℃ 新一股冷空气来了",
+    "category": "社会",
+    "source": "今日头条",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 11949911,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "国内成品油价格不作调整...",
+    "excerpt": "",
     "keywords": [
-      "国内成品",
-      "油价格不",
-      "国内成品油价"
+      "降温超8",
+      "℃ 新一",
+      "降温超8℃ "
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696617",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
+        "title": "事件发现",
+        "desc": "今日头条 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "火遍外网的ChinaHaul是什么",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 11841596,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "火遍外网的ChinaHaul是什么...",
+    "keywords": [
+      "火遍外网",
+      "的Chi",
+      "火遍外网的C"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2694649",
+    "timeline": [
+      {
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -321,11 +320,11 @@
   },
   {
     "id": 9,
-    "title": "油价本轮不调整",
-    "category": "财经",
+    "title": "陈妤颉回母校和机器人赛跑",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 9826696,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 10812727,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -333,14 +332,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "油价本轮",
-      "油价本轮不调"
+      "陈妤颉回",
+      "母校和机",
+      "陈妤颉回母校"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -360,51 +360,11 @@
   },
   {
     "id": 10,
-    "title": "工厂工人回应撞脸陈小春走红",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 9766044,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "工厂工人回应撞脸陈小春走红...",
-    "keywords": [
-      "工厂工人",
-      "回应撞脸",
-      "工厂工人回应"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2695897",
-    "timeline": [
-      {
-        "time": "08:46",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "title": "黄子韬徐艺洋官宣有娃",
+    "title": "PC为何卖不动了",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 8891562,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 9783760,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -412,15 +372,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "黄子韬徐",
-      "艺洋官宣",
-      "黄子韬徐艺洋"
+      "PC为何",
+      "PC为何卖不"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -439,28 +398,67 @@
     }
   },
   {
-    "id": 12,
-    "title": "皇马4:3逆转罗马",
+    "id": 11,
+    "title": "第140届广交会开展",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 8318229,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 9193445,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "皇马4:3逆转罗马...",
+    "excerpt": "第140届广交会开展...",
     "keywords": [
-      "皇马4:",
-      "3逆转罗",
-      "皇马4:3逆"
+      "第140",
+      "届广交会",
+      "第140届广"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2695830",
+    "url": "https://www.douyin.com/hot/2697421",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "全国赏秋进度条",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 9183242,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "全国赏秋进度条...",
+    "keywords": [
+      "全国赏秋",
+      "全国赏秋进度"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2694765",
+    "timeline": [
+      {
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -480,51 +478,11 @@
   },
   {
     "id": 13,
-    "title": "火遍外网的ChinaHaul是什么",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 8193784,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "火遍外网的ChinaHaul是什么...",
-    "keywords": [
-      "火遍外网",
-      "的Chi",
-      "火遍外网的C"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2694649",
-    "timeline": [
-      {
-        "time": "08:46",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 14,
-    "title": "物业回应千万新房被陌生人拆成毛坯",
+    "title": "DeepSeek公布补偿方案",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 8045418,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 8852712,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -532,15 +490,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "物业回应",
-      "千万新房",
-      "物业回应千万"
+      "Deep",
+      "Seek",
+      "DeepSe"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -559,28 +517,28 @@
     }
   },
   {
-    "id": 15,
-    "title": "李嘉诚去世为假消息",
+    "id": 14,
+    "title": "被古都北京的文化底蕴硬控了",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7959649,
-    "trend": "stable",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 8694003,
+    "trend": "rising",
     "sentiment": "neutral",
-    "riskLevel": "low",
+    "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "李嘉诚去世为假消息...",
+    "excerpt": "被古都北京的文化底蕴硬控了...",
     "keywords": [
-      "李嘉诚去",
-      "世为假消",
-      "李嘉诚去世为"
+      "被古都北",
+      "京的文化",
+      "被古都北京的"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696238",
+    "url": "https://www.douyin.com/hot/2694894",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -589,7 +547,46 @@
     "analysis": {
       "sentiment": "neutral",
       "sentimentScore": 0.65,
-      "riskAssessment": "low",
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "title": "乌鲁木齐迎来初雪",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 8692118,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "乌鲁木齐迎来初雪...",
+    "keywords": [
+      "乌鲁木齐",
+      "乌鲁木齐迎来"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2697259",
+    "timeline": [
+      {
+        "time": "14:37",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
       "trendPrediction": "待观察",
       "keyPoints": [
         "事件正在发展中",
@@ -600,36 +597,36 @@
   },
   {
     "id": 16,
-    "title": "亚洲股市迎来黑色星期四",
-    "category": "经济",
-    "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7827905,
-    "trend": "stable",
+    "title": "胡塞越打越狠是冲着美国来的吗",
+    "category": "国际",
+    "source": "今日头条",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 8010265,
+    "trend": "rising",
     "sentiment": "neutral",
-    "riskLevel": "low",
+    "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "亚洲股市迎来黑色星期四...",
+    "excerpt": "",
     "keywords": [
-      "亚洲股市",
-      "迎来黑色",
-      "亚洲股市迎来"
+      "胡塞越打",
+      "越狠是冲",
+      "胡塞越打越狠"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696034",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
       "sentiment": "neutral",
       "sentimentScore": 0.65,
-      "riskAssessment": "low",
+      "riskAssessment": "medium",
       "trendPrediction": "待观察",
       "keyPoints": [
         "事件正在发展中",
@@ -640,27 +637,27 @@
   },
   {
     "id": 17,
-    "title": "秋天最有腔调的流金可可妆",
+    "title": "中朝新鸭绿江大桥今日开通",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7811757,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7774554,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "秋天最有腔调的流金可可妆...",
+    "excerpt": "中朝新鸭绿江大桥今日开通...",
     "keywords": [
-      "秋天最有",
-      "腔调的流",
-      "秋天最有腔调"
+      "中朝新鸭",
+      "绿江大桥",
+      "中朝新鸭绿江"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2695777",
+    "url": "https://www.douyin.com/hot/2694377",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -680,27 +677,27 @@
   },
   {
     "id": 18,
-    "title": "东大高武迎来最抽象的一集",
+    "title": "DeepSeek发布补偿方案",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7804909,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7757441,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "东大高武迎来最抽象的一集...",
+    "excerpt": "DeepSeek发布补偿方案...",
     "keywords": [
-      "东大高武",
-      "迎来最抽",
-      "东大高武迎来"
+      "Deep",
+      "Seek",
+      "DeepSe"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696291",
+    "url": "https://www.douyin.com/hot/2697185",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -720,27 +717,27 @@
   },
   {
     "id": 19,
-    "title": "考研报名今天正式开始",
+    "title": "黄金涨破4150美元",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7802790,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7756969,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "考研报名今天正式开始...",
+    "excerpt": "黄金涨破4150美元...",
     "keywords": [
-      "考研报名",
-      "今天正式",
-      "考研报名今天"
+      "黄金涨破",
+      "4150",
+      "黄金涨破41"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2696024",
+    "url": "https://www.douyin.com/hot/2696066",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -760,26 +757,27 @@
   },
   {
     "id": 20,
-    "title": "玉簟秋首播观后感",
+    "title": "考研报名今天正式开始",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7772163,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7756527,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "玉簟秋首播观后感...",
+    "excerpt": "考研报名今天正式开始...",
     "keywords": [
-      "玉簟秋首",
-      "玉簟秋首播观"
+      "考研报名",
+      "今天正式",
+      "考研报名今天"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2695447",
+    "url": "https://www.douyin.com/hot/2696024",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -799,27 +797,27 @@
   },
   {
     "id": 21,
-    "title": "央行将开展7000亿元买断式逆回购",
+    "title": "咪不要那样看着我的眼睛",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7766479,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7726781,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "央行将开展7000亿元买断式逆回购...",
+    "excerpt": "咪不要那样看着我的眼睛...",
     "keywords": [
-      "央行将开",
-      "展700",
-      "央行将开展7"
+      "咪不要那",
+      "样看着我",
+      "咪不要那样看"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2695502",
+    "url": "https://www.douyin.com/hot/2694567",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -839,27 +837,27 @@
   },
   {
     "id": 22,
-    "title": "英雄联盟S16 LPL出征片",
-    "category": "游戏",
+    "title": "专家解读9月物价走势",
+    "category": "财经",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7761775,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7725267,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "英雄联盟S16 LPL出征片...",
+    "excerpt": "专家解读9月物价走势...",
     "keywords": [
-      "英雄联盟",
-      "S16 ",
-      "英雄联盟S1"
+      "专家解读",
+      "9月物价",
+      "专家解读9月"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2694892",
+    "url": "https://www.douyin.com/hot/2694786",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -879,27 +877,27 @@
   },
   {
     "id": 23,
-    "title": "专家解读9月物价走势",
-    "category": "财经",
+    "title": "李一桐常华森互相展示家产",
+    "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7742278,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7713575,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "专家解读9月物价走势...",
+    "excerpt": "李一桐常华森互相展示家产...",
     "keywords": [
-      "专家解读",
-      "9月物价",
-      "专家解读9月"
+      "李一桐常",
+      "华森互相",
+      "李一桐常华森"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2694786",
+    "url": "https://www.douyin.com/hot/2697063",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -919,27 +917,27 @@
   },
   {
     "id": 24,
-    "title": "萌宠比我先学会了跳NEON",
+    "title": "丞磊追剧团还原麻将名场面",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7735051,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7705284,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "萌宠比我先学会了跳NEON...",
+    "excerpt": "丞磊追剧团还原麻将名场面...",
     "keywords": [
-      "萌宠比我",
-      "先学会了",
-      "萌宠比我先学"
+      "丞磊追剧",
+      "团还原麻",
+      "丞磊追剧团还"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2694773",
+    "url": "https://www.douyin.com/hot/2697060",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -959,27 +957,27 @@
   },
   {
     "id": 25,
-    "title": "咪不要那样看着我的眼睛",
-    "category": "社会",
+    "title": "科技股调整砸出黄金坑了吗",
+    "category": "科技",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7733345,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7693714,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "咪不要那样看着我的眼睛...",
+    "excerpt": "科技股调整砸出黄金坑了吗...",
     "keywords": [
-      "咪不要那",
-      "样看着我",
-      "咪不要那样看"
+      "科技股调",
+      "整砸出黄",
+      "科技股调整砸"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2694567",
+    "url": "https://www.douyin.com/hot/2696431",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -999,27 +997,26 @@
   },
   {
     "id": 26,
-    "title": "阿隆索携博托莱托入驻抖音",
+    "title": "小猫踏步舞",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7730198,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7690455,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "阿隆索携博托莱托入驻抖音...",
+    "excerpt": "小猫踏步舞...",
     "keywords": [
-      "阿隆索携",
-      "博托莱托",
-      "阿隆索携博托"
+      "小猫踏步",
+      "小猫踏步舞"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2693605",
+    "url": "https://www.douyin.com/hot/2694417",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1039,29 +1036,29 @@
   },
   {
     "id": 27,
-    "title": "博主“能能妈妈”在昆明离世",
-    "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 7279795,
+    "title": "英雄联盟S16 LPL出征片",
+    "category": "游戏",
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7685601,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "英雄联盟S16 LPL出征片...",
     "keywords": [
-      "博主“能",
-      "能妈妈”",
-      "博主“能能妈"
+      "英雄联盟",
+      "S16 ",
+      "英雄联盟S1"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2694892",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -1079,29 +1076,28 @@
   },
   {
     "id": 28,
-    "title": "多地组织筛查干部档案有何深意",
+    "title": "玉簟秋首播观后感",
     "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 6587031,
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7676518,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "玉簟秋首播观后感...",
     "keywords": [
-      "多地组织",
-      "筛查干部",
-      "多地组织筛查"
+      "玉簟秋首",
+      "玉簟秋首播观"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2695447",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -1119,29 +1115,29 @@
   },
   {
     "id": 29,
-    "title": "商家建议手头电脑能用则用",
+    "title": "NEON打歌初舞台",
     "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 5960192,
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7675342,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "NEON打歌初舞台...",
     "keywords": [
-      "商家建议",
-      "手头电脑",
-      "商家建议手头"
+      "NEON",
+      "打歌初舞",
+      "NEON打歌"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2697057",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -1159,34 +1155,34 @@
   },
   {
     "id": 30,
-    "title": "长鑫科技吓坏美韩存储巨头",
-    "category": "科技",
-    "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 5393005,
+    "title": "TWS志薰炅潣跳了NEON",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7674570,
     "trend": "stable",
-    "sentiment": "negative",
+    "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "TWS志薰炅潣跳了NEON...",
     "keywords": [
-      "长鑫科技",
-      "吓坏美韩",
-      "长鑫科技吓坏"
+      "TWS志",
+      "薰炅潣跳",
+      "TWS志薰炅"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2697362",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "sentimentScore": 0.65,
       "riskAssessment": "low",
       "trendPrediction": "待观察",
@@ -1199,27 +1195,27 @@
   },
   {
     "id": 31,
-    "title": "小心“人脸授权”背后的陷阱",
+    "title": "网传超级工程隧洞“挖偏”？假的",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 4879792,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 7247988,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "小心“人",
-      "脸授权”",
-      "小心“人脸授"
+      "网传超级",
+      "工程隧洞",
+      "网传超级工程"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1242,12 +1238,12 @@
     "title": "陈小春曾说不会把送走的弟弟找回来",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 4415419,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 6558250,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
@@ -1259,7 +1255,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1279,27 +1275,27 @@
   },
   {
     "id": 33,
-    "title": "张雪机车亮相广交会",
+    "title": "张雪评两轮车自动驾驶概念",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 3995236,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 5934150,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "张雪机车",
-      "亮相广交",
-      "张雪机车亮相"
+      "张雪评两",
+      "轮车自动",
+      "张雪评两轮车"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1319,27 +1315,27 @@
   },
   {
     "id": 34,
-    "title": "2027年或成史上最热一年",
+    "title": "宝马宣布2030年在华国产车型将超95%",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 3615039,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 5369441,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
-    "isHot": false,
+    "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "2027",
-      "年或成史",
-      "2027年或"
+      "宝马宣布",
+      "2030",
+      "宝马宣布20"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1359,11 +1355,11 @@
   },
   {
     "id": 35,
-    "title": "中朝新鸭绿江大桥正式开通",
+    "title": "马斯克成共和党最重要外部资金支撑",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 3271022,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 4858471,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1371,15 +1367,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "中朝新鸭",
-      "绿江大桥",
-      "中朝新鸭绿江"
+      "马斯克成",
+      "共和党最",
+      "马斯克成共和"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1399,11 +1395,11 @@
   },
   {
     "id": 36,
-    "title": "李大霄：稳定市场人人有责",
-    "category": "财经",
+    "title": "杭州桂博园桂花盛开 满目金黄",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 2959743,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 4396126,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1411,15 +1407,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "李大霄：",
-      "稳定市场",
-      "李大霄：稳定"
+      "杭州桂博",
+      "园桂花盛",
+      "杭州桂博园桂"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1439,11 +1435,11 @@
   },
   {
     "id": 37,
-    "title": "13岁男孩身高195cm 全网求长高食谱",
-    "category": "社会",
+    "title": "亚洲科技股崩盘正演变成全面恐慌吗",
+    "category": "科技",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 2678087,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 3977780,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1451,15 +1447,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "13岁男",
-      "孩身高1",
-      "13岁男孩身"
+      "亚洲科技",
+      "股崩盘正",
+      "亚洲科技股崩"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1479,11 +1475,11 @@
   },
   {
     "id": 38,
-    "title": "《大公报》否认发布李嘉诚逝世内容",
+    "title": "高市抱怨早上比男首相多花三四个小时",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 2423233,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 3599244,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1491,15 +1487,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "《大公报",
-      "》否认发",
-      "《大公报》否"
+      "高市抱怨",
+      "早上比男",
+      "高市抱怨早上"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1519,11 +1515,11 @@
   },
   {
     "id": 39,
-    "title": "郑钦文教练：她像我的亲妹妹一样",
+    "title": "马斯克为何关注中国内存",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 2192632,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 3256730,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1531,15 +1527,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "郑钦文教",
-      "练：她像",
-      "郑钦文教练："
+      "马斯克为",
+      "何关注中",
+      "马斯克为何关"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -1559,34 +1555,34 @@
   },
   {
     "id": 40,
-    "title": "湖南姐妹专程去武汉给长江大桥庆生",
+    "title": "国产EUV光源样机亮相意味着什么",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 1983975,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 2946812,
     "trend": "stable",
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": false,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "湖南姐妹",
-      "专程去武",
-      "湖南姐妹专程"
+      "国产EU",
+      "V光源样",
+      "国产EUV光"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "sentimentScore": 0.65,
       "riskAssessment": "low",
       "trendPrediction": "待观察",
@@ -1602,7 +1598,7 @@
     "title": "给阿嬷的情书",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 90000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1618,7 +1614,7 @@
     "url": "https://movie.douban.com/subject/37116446/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1641,7 +1637,7 @@
     "title": "欢迎来龙餐馆",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1657,7 +1653,7 @@
     "url": "https://movie.douban.com/subject/35811064/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1680,7 +1676,7 @@
     "title": "生化危机：爆发夜",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1696,7 +1692,7 @@
     "url": "https://movie.douban.com/subject/37068446/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1719,7 +1715,7 @@
     "title": "野兽之心",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1734,7 +1730,7 @@
     "url": "https://movie.douban.com/subject/36828393/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1754,11 +1750,11 @@
   },
   {
     "id": 45,
-    "title": "活色生香",
+    "title": "神探之痕迹‎",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 70000,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 60000,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1766,13 +1762,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "活色生香"
+      "神探之痕",
+      "神探之痕迹‎"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/37899051/",
+    "url": "https://movie.douban.com/subject/37247814/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1792,10 +1789,10 @@
   },
   {
     "id": 46,
-    "title": "神探之痕迹‎",
+    "title": "功夫女足",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 60000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1804,14 +1801,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "神探之痕",
-      "神探之痕迹‎"
+      "功夫女足"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/37247814/",
+    "url": "https://movie.douban.com/subject/36452545/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1831,11 +1827,11 @@
   },
   {
     "id": 47,
-    "title": "重生2",
+    "title": "希望",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 60000,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 50000,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1843,13 +1839,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "重生2"
+      "希望"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/37403222/",
+    "url": "https://movie.douban.com/subject/36179101/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1869,11 +1865,11 @@
   },
   {
     "id": 48,
-    "title": "希望",
+    "title": "初次尝到寂寞",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
-    "heat": 50000,
+    "publishTime": "2026-10-15 14:37:38",
+    "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1881,13 +1877,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "希望"
+      "初次尝到",
+      "初次尝到寂寞"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36179101/",
+    "url": "https://movie.douban.com/subject/36652425/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1910,7 +1907,7 @@
     "title": "一个夜晚与三个夏天",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1927,7 +1924,7 @@
     "url": "https://movie.douban.com/subject/36449264/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1950,7 +1947,7 @@
     "title": "鲸口脱险",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-10-15 08:46:57",
+    "publishTime": "2026-10-15 14:37:38",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1965,7 +1962,7 @@
     "url": "https://movie.douban.com/subject/36806762/",
     "timeline": [
       {
-        "time": "08:46",
+        "time": "14:37",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
