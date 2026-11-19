@@ -4,8 +4,8 @@
     "title": "习近平同APEC各经济体领导人合影",
     "category": "经济",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 59134108,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 48670786,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -21,7 +21,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -41,11 +41,11 @@
   },
   {
     "id": 2,
-    "title": "普京和特朗普互动握手",
+    "title": "特朗普沉浸式欣赏深圳的夜",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 53506753,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 44039148,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -53,15 +53,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "普京和特",
-      "朗普互动",
-      "普京和特朗普"
+      "特朗普沉",
+      "浸式欣赏",
+      "特朗普沉浸式"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -84,8 +84,8 @@
     "title": "APEC十二年间有哪些新变化？",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 48414913,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 39848269,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -101,7 +101,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -121,34 +121,34 @@
   },
   {
     "id": 4,
-    "title": "地毯机2分钟铺好特朗普下机专道",
-    "category": "社会",
+    "title": "APEC来宾体验中国科技产品",
+    "category": "科技",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 43807624,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 36056205,
     "trend": "rising",
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "地毯机2",
-      "分钟铺好",
-      "地毯机2分钟"
+      "APEC",
+      "来宾体验",
+      "APEC来宾"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
     "analysis": {
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "sentimentScore": 0.65,
       "riskAssessment": "medium",
       "trendPrediction": "待观察",
@@ -161,11 +161,11 @@
   },
   {
     "id": 5,
-    "title": "国台办回应“两岸2032年统一货币”",
+    "title": "APEC世纪晚宴菜单曝光",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 39638778,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 32625003,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -173,15 +173,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "国台办回",
-      "应“两岸",
-      "国台办回应“"
+      "APEC",
+      "世纪晚宴",
+      "APEC世纪"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -201,11 +201,11 @@
   },
   {
     "id": 6,
-    "title": "黄金连续大跌是金融风暴前兆吗",
-    "category": "经济",
+    "title": "白宫发布特朗普访华视频",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 35866649,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 29520324,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -213,15 +213,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "黄金连续",
-      "大跌是金",
-      "黄金连续大跌"
+      "白宫发布",
+      "特朗普访",
+      "白宫发布特朗"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -241,11 +241,11 @@
   },
   {
     "id": 7,
-    "title": "中国军人在空军一号轰鸣声前岿然不动",
+    "title": "深圳的夜景极致震撼",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 32453486,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 26711094,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -253,15 +253,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "中国军人",
-      "在空军一",
-      "中国军人在空"
+      "深圳的夜",
+      "景极致震",
+      "深圳的夜景极"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -281,11 +281,11 @@
   },
   {
     "id": 8,
-    "title": "为何还有人坚持只买油车",
+    "title": "外国政要来深圳都打卡了哪",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 29365129,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 24169197,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -293,15 +293,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "为何还有",
-      "人坚持只",
-      "为何还有人坚"
+      "外国政要",
+      "来深圳都",
+      "外国政要来深"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -324,8 +324,8 @@
     "title": "中外媒体紧盯这些APEC关键词",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 26570667,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 21869194,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -341,7 +341,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -361,11 +361,11 @@
   },
   {
     "id": 10,
-    "title": "记者称普京车队起码有40多辆",
+    "title": "马斯克母亲也来深圳了？本人回应",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 24042134,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 19788065,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -373,15 +373,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "记者称普",
-      "京车队起",
-      "记者称普京车"
+      "马斯克母",
+      "亲也来深",
+      "马斯克母亲也"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -404,8 +404,8 @@
     "title": "养老保险缴15年就能坐等退休？假的",
     "category": "经济",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 21754222,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 17904981,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -421,7 +421,7 @@
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -441,11 +441,11 @@
   },
   {
     "id": 12,
-    "title": "黄金为何大跌",
-    "category": "社会",
+    "title": "APEC欢迎宴会有哪些高科技",
+    "category": "科技",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 19684034,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 16201097,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -453,14 +453,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "黄金为何",
-      "黄金为何大跌"
+      "APEC",
+      "欢迎宴会",
+      "APEC欢迎"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -480,11 +481,11 @@
   },
   {
     "id": 13,
-    "title": "台湾岛内震撼：全世界焦点都在深圳",
+    "title": "中俄美元首同框",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 17810851,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 14659359,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -492,15 +493,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "台湾岛内",
-      "震撼：全",
-      "台湾岛内震撼"
+      "中俄美元",
+      "中俄美元首同"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -520,11 +520,11 @@
   },
   {
     "id": 14,
-    "title": "特朗普坐上专属座驾在车上挥手",
-    "category": "社会",
+    "title": "美国科技股市盈率暴跌42%",
+    "category": "经济",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 16115924,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 13264336,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -532,15 +532,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "特朗普坐",
-      "上专属座",
-      "特朗普坐上专"
+      "美国科技",
+      "股市盈率",
+      "美国科技股市"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -560,11 +560,11 @@
   },
   {
     "id": 15,
-    "title": "中方回应英伟达停止向华供应H200芯片",
-    "category": "科技",
+    "title": "外国游客：中国制造印象彻底改变",
+    "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 14582291,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 12002068,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -572,15 +572,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "中方回应",
-      "英伟达停",
-      "中方回应英伟"
+      "外国游客",
+      "：中国制",
+      "外国游客：中"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -600,29 +600,29 @@
   },
   {
     "id": 16,
-    "title": "普京对镜头微笑挥手",
+    "title": "2026年APEC领导人非正式会议",
     "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 13194603,
+    "source": "抖音热榜",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 11899820,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "2026年APEC领导人非正式会议...",
     "keywords": [
-      "普京对镜",
-      "头微笑挥",
-      "普京对镜头微"
+      "2026",
+      "年APE",
+      "2026年A"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2748427",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -640,26 +640,27 @@
   },
   {
     "id": 17,
-    "title": "APEC欢迎宴会",
+    "title": "普京到访深圳高校发表演讲",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 12114225,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 11892829,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "APEC欢迎宴会...",
+    "excerpt": "普京到访深圳高校发表演讲...",
     "keywords": [
-      "APEC",
-      "APEC欢迎"
+      "普京到访",
+      "深圳高校",
+      "普京到访深圳"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2752977",
+    "url": "https://www.douyin.com/hot/2752490",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -679,27 +680,27 @@
   },
   {
     "id": 18,
-    "title": "普京到访深圳高校发表演讲",
+    "title": "深圳科创吸引世界目光",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 12029040,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 11124160,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "普京到访深圳高校发表演讲...",
+    "excerpt": "深圳科创吸引世界目光...",
     "keywords": [
-      "普京到访",
-      "深圳高校",
-      "普京到访深圳"
+      "深圳科创",
+      "吸引世界",
+      "深圳科创吸引"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2752490",
+    "url": "https://www.douyin.com/hot/2753110",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -719,29 +720,29 @@
   },
   {
     "id": 19,
-    "title": "公安机关抓获拒执嫌疑人5795人",
+    "title": "特朗普出席深圳APEC欢迎宴会",
     "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 11938970,
+    "source": "抖音热榜",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 11066312,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "",
+    "excerpt": "特朗普出席深圳APEC欢迎宴会...",
     "keywords": [
-      "公安机关",
-      "抓获拒执",
-      "公安机关抓获"
+      "特朗普出",
+      "席深圳A",
+      "特朗普出席深"
     ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2753138",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
+        "desc": "抖音热榜 监测到该热点",
         "isKey": true
       }
     ],
@@ -759,91 +760,11 @@
   },
   {
     "id": 20,
-    "title": "深圳科创吸引世界目光",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 11290719,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "深圳科创吸引世界目光...",
-    "keywords": [
-      "深圳科创",
-      "吸引世界",
-      "深圳科创吸引"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753110",
-    "timeline": [
-      {
-        "time": "18:36",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 21,
-    "title": "特朗普出席深圳APEC欢迎宴会",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 11098468,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "特朗普出席深圳APEC欢迎宴会...",
-    "keywords": [
-      "特朗普出",
-      "席深圳A",
-      "特朗普出席深"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753138",
-    "timeline": [
-      {
-        "time": "18:36",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 22,
-    "title": "当地回应80-89岁老人高龄津贴5元/月",
+    "title": "普京：难怪您会选这里举办APEC",
     "category": "社会",
     "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 10802827,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 10859920,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
@@ -851,15 +772,15 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "当地回应",
-      "80-8",
-      "当地回应80"
+      "普京：难",
+      "怪您会选",
+      "普京：难怪您"
     ],
     "platform": "toutiao",
     "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "今日头条 监测到该热点",
         "isKey": true
@@ -878,12 +799,12 @@
     }
   },
   {
-    "id": 23,
+    "id": 21,
     "title": "普京在APEC峰会点赞深圳",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 10190689,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 10422679,
     "trend": "rising",
     "sentiment": "positive",
     "riskLevel": "medium",
@@ -899,7 +820,7 @@
     "url": "https://www.douyin.com/hot/2752312",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -918,28 +839,108 @@
     }
   },
   {
-    "id": 24,
-    "title": "泰国总理阿努廷飙粤语称很开心",
+    "id": 22,
+    "title": "普京特朗普欢迎晚宴互动握手",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 10096782,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 10404555,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "泰国总理阿努廷飙粤语称很开心...",
+    "excerpt": "普京特朗普欢迎晚宴互动握手...",
     "keywords": [
-      "泰国总理",
-      "阿努廷飙",
-      "泰国总理阿努"
+      "普京特朗",
+      "普欢迎晚",
+      "普京特朗普欢"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2752450",
+    "url": "https://www.douyin.com/hot/2753472",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "title": "男子滩涂赶海抓青蟹 个头惊人",
+    "category": "社会",
+    "source": "今日头条",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 9826462,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "",
+    "keywords": [
+      "男子滩涂",
+      "赶海抓青",
+      "男子滩涂赶海"
+    ],
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
+    "timeline": [
+      {
+        "time": "01:38",
+        "title": "事件发现",
+        "desc": "今日头条 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "title": "一条视频读懂APEC",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 9080158,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "一条视频读懂APEC...",
+    "keywords": [
+      "一条视频",
+      "读懂AP",
+      "一条视频读懂"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2752043",
+    "timeline": [
+      {
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -959,107 +960,27 @@
   },
   {
     "id": 25,
-    "title": "俄美专机在中国机场同框",
-    "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 9774802,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "",
-    "keywords": [
-      "俄美专机",
-      "在中国机",
-      "俄美专机在中"
-    ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
-    "timeline": [
-      {
-        "time": "18:36",
-        "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 26,
-    "title": "“山东造”小冰箱为何又被提起",
-    "category": "社会",
-    "source": "今日头条",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8844606,
-    "trend": "rising",
-    "sentiment": "neutral",
-    "riskLevel": "medium",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "",
-    "keywords": [
-      "“山东造",
-      "”小冰箱",
-      "“山东造”小"
-    ],
-    "platform": "toutiao",
-    "url": "https://www.toutiao.com/item//",
-    "timeline": [
-      {
-        "time": "18:36",
-        "title": "事件发现",
-        "desc": "今日头条 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "medium",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 27,
-    "title": "特朗普深圳之行有哪些看点",
+    "title": "泰国总理阿努廷飙粤语称很开心",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8779271,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 9035754,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "特朗普深圳之行有哪些看点...",
+    "excerpt": "泰国总理阿努廷飙粤语称很开心...",
     "keywords": [
-      "特朗普深",
-      "圳之行有",
-      "特朗普深圳之"
+      "泰国总理",
+      "阿努廷飙",
+      "泰国总理阿努"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753186",
+    "url": "https://www.douyin.com/hot/2752450",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1078,28 +999,107 @@
     }
   },
   {
-    "id": 28,
-    "title": "一条视频读懂APEC",
+    "id": 26,
+    "title": "相约APEC一起看到更多可能",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8776151,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 9021035,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "一条视频读懂APEC...",
+    "excerpt": "相约APEC一起看到更多可能...",
     "keywords": [
-      "一条视频",
-      "读懂AP",
-      "一条视频读懂"
+      "相约AP",
+      "EC一起",
+      "相约APEC"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2752043",
+    "url": "https://www.douyin.com/hot/2753111",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "title": "为何还有人坚持只买油车",
+    "category": "社会",
+    "source": "今日头条",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 8891350,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "",
+    "keywords": [
+      "为何还有",
+      "人坚持只",
+      "为何还有人坚"
+    ],
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
+    "timeline": [
+      {
+        "time": "01:38",
+        "title": "事件发现",
+        "desc": "今日头条 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "medium",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "title": "76人vs魔术",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 8886935,
+    "trend": "rising",
+    "sentiment": "neutral",
+    "riskLevel": "medium",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "76人vs魔术...",
+    "keywords": [
+      "76人v",
+      "76人vs魔"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2753483",
+    "timeline": [
+      {
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1119,27 +1119,27 @@
   },
   {
     "id": 29,
-    "title": "相约APEC一起看到更多可能",
+    "title": "特朗普深圳之行有哪些看点",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8537670,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 8672047,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "相约APEC一起看到更多可能...",
+    "excerpt": "特朗普深圳之行有哪些看点...",
     "keywords": [
-      "相约AP",
-      "EC一起",
-      "相约APEC"
+      "特朗普深",
+      "圳之行有",
+      "特朗普深圳之"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753111",
+    "url": "https://www.douyin.com/hot/2753186",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1159,27 +1159,27 @@
   },
   {
     "id": 30,
-    "title": "坎宁安隔扣文班亚马",
+    "title": "高盛预测金价或重返5600美元",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8310555,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 8291359,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "坎宁安隔扣文班亚马...",
+    "excerpt": "高盛预测金价或重返5600美元...",
     "keywords": [
-      "坎宁安隔",
-      "扣文班亚",
-      "坎宁安隔扣文"
+      "高盛预测",
+      "金价或重",
+      "高盛预测金价"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2751712",
+    "url": "https://www.douyin.com/hot/2752668",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1199,29 +1199,29 @@
   },
   {
     "id": 31,
-    "title": "超级棒棒糖给我神奇的力量",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8151487,
+    "title": "李家超与IMF总裁交流中国经济发展",
+    "category": "经济",
+    "source": "今日头条",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 8045226,
     "trend": "rising",
     "sentiment": "neutral",
     "riskLevel": "medium",
     "isHot": true,
     "isNew": true,
-    "excerpt": "超级棒棒糖给我神奇的力量...",
+    "excerpt": "",
     "keywords": [
-      "超级棒棒",
-      "糖给我神",
-      "超级棒棒糖给"
+      "李家超与",
+      "IMF总",
+      "李家超与IM"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2752696",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
@@ -1239,27 +1239,27 @@
   },
   {
     "id": 32,
-    "title": "现货黄金跌破3800美元关口",
+    "title": "慌啥子嘛为什么动人",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 8026949,
-    "trend": "rising",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7836396,
+    "trend": "stable",
     "sentiment": "neutral",
-    "riskLevel": "medium",
+    "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "现货黄金跌破3800美元关口...",
+    "excerpt": "慌啥子嘛为什么动人...",
     "keywords": [
-      "现货黄金",
-      "跌破38",
-      "现货黄金跌破"
+      "慌啥子嘛",
+      "为什么动",
+      "慌啥子嘛为什"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2751924",
+    "url": "https://www.douyin.com/hot/2751633",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1268,7 +1268,7 @@
     "analysis": {
       "sentiment": "neutral",
       "sentimentScore": 0.65,
-      "riskAssessment": "medium",
+      "riskAssessment": "low",
       "trendPrediction": "待观察",
       "keyPoints": [
         "事件正在发展中",
@@ -1279,26 +1279,27 @@
   },
   {
     "id": 33,
-    "title": "开拓者不敌森林狼",
+    "title": "泰国总理阿努廷抵达深圳",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7743447,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7824157,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "开拓者不敌森林狼...",
+    "excerpt": "泰国总理阿努廷抵达深圳...",
     "keywords": [
-      "开拓者不",
-      "开拓者不敌森"
+      "泰国总理",
+      "阿努廷抵",
+      "泰国总理阿努"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2752073",
+    "url": "https://www.douyin.com/hot/2751974",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1318,26 +1319,27 @@
   },
   {
     "id": 34,
-    "title": "普京抵达深圳",
+    "title": "美联储沃勒称12月或加息50基点",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7743263,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7823449,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "普京抵达深圳...",
+    "excerpt": "美联储沃勒称12月或加息50基点...",
     "keywords": [
-      "普京抵达",
-      "普京抵达深圳"
+      "美联储沃",
+      "勒称12",
+      "美联储沃勒称"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2751526",
+    "url": "https://www.douyin.com/hot/2753321",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1357,27 +1359,26 @@
   },
   {
     "id": 35,
-    "title": "忘情牛肉面舞蹈大赛",
-    "category": "社会",
+    "title": "GTA6游戏测评",
+    "category": "游戏",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7743093,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7772927,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "忘情牛肉面舞蹈大赛...",
+    "excerpt": "GTA6游戏测评...",
     "keywords": [
-      "忘情牛肉",
-      "面舞蹈大",
-      "忘情牛肉面舞"
+      "GTA6",
+      "GTA6游戏"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753229",
+    "url": "https://www.douyin.com/hot/2753152",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1397,26 +1398,27 @@
   },
   {
     "id": 36,
-    "title": "GTA6游戏测评",
-    "category": "游戏",
+    "title": "EDG官宣郑永康ZmjjKK离队",
+    "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7741737,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7764582,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "GTA6游戏测评...",
+    "excerpt": "EDG官宣郑永康ZmjjKK离队...",
     "keywords": [
-      "GTA6",
-      "GTA6游戏"
+      "EDG官",
+      "宣郑永康",
+      "EDG官宣郑"
     ],
     "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753152",
+    "url": "https://www.douyin.com/hot/2753060",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1436,51 +1438,11 @@
   },
   {
     "id": 37,
-    "title": "EDG官宣郑永康ZmjjKK离队",
-    "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7734196,
-    "trend": "stable",
-    "sentiment": "neutral",
-    "riskLevel": "low",
-    "isHot": true,
-    "isNew": true,
-    "excerpt": "EDG官宣郑永康ZmjjKK离队...",
-    "keywords": [
-      "EDG官",
-      "宣郑永康",
-      "EDG官宣郑"
-    ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753060",
-    "timeline": [
-      {
-        "time": "18:36",
-        "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
-        "isKey": true
-      }
-    ],
-    "analysis": {
-      "sentiment": "neutral",
-      "sentimentScore": 0.65,
-      "riskAssessment": "low",
-      "trendPrediction": "待观察",
-      "keyPoints": [
-        "事件正在发展中",
-        "需持续关注官方通报",
-        "建议跟踪后续报道"
-      ]
-    }
-  },
-  {
-    "id": 38,
     "title": "慌啥子嘛要好好吃饭呀",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7724469,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7762069,
     "trend": "stable",
     "sentiment": "positive",
     "riskLevel": "low",
@@ -1496,7 +1458,7 @@
     "url": "https://www.douyin.com/hot/2753181",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1515,12 +1477,12 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "title": "摆摊规矩立住了才能不烧心",
     "category": "社会",
     "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7723890,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7754625,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1536,7 +1498,46 @@
     "url": "https://www.douyin.com/hot/2752836",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
+        "title": "事件发现",
+        "desc": "抖音热榜 监测到该热点",
+        "isKey": true
+      }
+    ],
+    "analysis": {
+      "sentiment": "neutral",
+      "sentimentScore": 0.65,
+      "riskAssessment": "low",
+      "trendPrediction": "待观察",
+      "keyPoints": [
+        "事件正在发展中",
+        "需持续关注官方通报",
+        "建议跟踪后续报道"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "title": "成毅新剧叛逆儿子",
+    "category": "社会",
+    "source": "抖音热榜",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7751001,
+    "trend": "stable",
+    "sentiment": "neutral",
+    "riskLevel": "low",
+    "isHot": true,
+    "isNew": true,
+    "excerpt": "成毅新剧叛逆儿子...",
+    "keywords": [
+      "成毅新剧",
+      "成毅新剧叛逆"
+    ],
+    "platform": "douyin",
+    "url": "https://www.douyin.com/hot/2753191",
+    "timeline": [
+      {
+        "time": "01:38",
         "title": "事件发现",
         "desc": "抖音热榜 监测到该热点",
         "isKey": true
@@ -1556,28 +1557,29 @@
   },
   {
     "id": 40,
-    "title": "成毅新剧叛逆儿子",
+    "title": "中年人为何开始抗阻训练",
     "category": "社会",
-    "source": "抖音热榜",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 7703574,
+    "source": "今日头条",
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 7279622,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
     "isHot": true,
     "isNew": true,
-    "excerpt": "成毅新剧叛逆儿子...",
+    "excerpt": "",
     "keywords": [
-      "成毅新剧",
-      "成毅新剧叛逆"
+      "中年人为",
+      "何开始抗",
+      "中年人为何开"
     ],
-    "platform": "douyin",
-    "url": "https://www.douyin.com/hot/2753191",
+    "platform": "toutiao",
+    "url": "https://www.toutiao.com/item//",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
-        "desc": "抖音热榜 监测到该热点",
+        "desc": "今日头条 监测到该热点",
         "isKey": true
       }
     ],
@@ -1595,11 +1597,11 @@
   },
   {
     "id": 41,
-    "title": "可能的爱",
+    "title": "我不是药神",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 80000,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 90000,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1607,13 +1609,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "可能的爱"
+      "我不是药",
+      "我不是药神"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36847425/",
+    "url": "https://movie.douban.com/subject/26752088/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1636,7 +1639,7 @@
     "title": "生日快乐",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1651,7 +1654,7 @@
     "url": "https://movie.douban.com/subject/37322586/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1674,7 +1677,7 @@
     "title": "黑球",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1689,7 +1692,7 @@
     "url": "https://movie.douban.com/subject/37215318/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1709,10 +1712,10 @@
   },
   {
     "id": 44,
-    "title": "奥德赛",
+    "title": "汉娜·阿伦特",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1721,13 +1724,14 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "奥德赛"
+      "汉娜·阿",
+      "汉娜·阿伦特"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36808876/",
+    "url": "https://movie.douban.com/subject/10748498/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1747,10 +1751,10 @@
   },
   {
     "id": 45,
-    "title": "八仙！",
+    "title": "奥德赛",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 80000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1759,13 +1763,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "八仙！"
+      "奥德赛"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36882191/",
+    "url": "https://movie.douban.com/subject/36808876/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1785,10 +1789,10 @@
   },
   {
     "id": 46,
-    "title": "战争结束了！",
-    "category": "国际",
+    "title": "空枪",
+    "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 70000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1797,14 +1801,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "战争结束",
-      "战争结束了！"
+      "空枪"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/36744569/",
+    "url": "https://movie.douban.com/subject/37508847/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1824,11 +1827,11 @@
   },
   {
     "id": 47,
-    "title": "空枪",
+    "title": "深度安静",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
-    "heat": 70000,
+    "publishTime": "2026-11-19 01:38:25",
+    "heat": 60000,
     "trend": "stable",
     "sentiment": "neutral",
     "riskLevel": "low",
@@ -1836,13 +1839,13 @@
     "isNew": true,
     "excerpt": "",
     "keywords": [
-      "空枪"
+      "深度安静"
     ],
     "platform": "douban",
-    "url": "https://movie.douban.com/subject/37508847/",
+    "url": "https://movie.douban.com/subject/35211934/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1865,7 +1868,7 @@
     "title": "我没错！",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 50000,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1880,7 +1883,7 @@
     "url": "https://movie.douban.com/subject/37409137/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1903,7 +1906,7 @@
     "title": "饥饿游戏：收获日出",
     "category": "游戏",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1920,7 +1923,7 @@
     "url": "https://movie.douban.com/subject/36915988/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
@@ -1943,7 +1946,7 @@
     "title": "珠穆朗玛：云中彼岸",
     "category": "社会",
     "source": "豆瓣电影",
-    "publishTime": "2026-11-18 18:36:17",
+    "publishTime": "2026-11-19 01:38:25",
     "heat": 0,
     "trend": "stable",
     "sentiment": "neutral",
@@ -1960,7 +1963,7 @@
     "url": "https://movie.douban.com/subject/37822528/",
     "timeline": [
       {
-        "time": "18:36",
+        "time": "01:38",
         "title": "事件发现",
         "desc": "豆瓣电影 监测到该热点",
         "isKey": true
